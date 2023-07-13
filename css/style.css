@@ -1,0 +1,26 @@
+body {
+    font-family: Monaco, 'Courier New', monospace;
+}
+button {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+
+.recipe {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
